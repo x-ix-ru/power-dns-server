@@ -1,0 +1,6 @@
+.git/
+.github/
+devdocs/
+*.md
+LICENSE
+.dockerignore
